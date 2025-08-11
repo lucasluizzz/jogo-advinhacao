@@ -20,4 +20,4 @@ Este é um jogo simples feito em Python onde o computador sorteia um número ale
 Para rodar o jogo, execute o arquivo no terminal com o Python 3:
 
 ```bash
-python jogo_adivinhacao.py
+jogo_adivinhacao.py
